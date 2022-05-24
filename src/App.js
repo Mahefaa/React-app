@@ -36,8 +36,8 @@ function App(){
                         </ol>
                         <div class="card mb-4">
                             <div class="card-body">
-                                DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the
-                                <a target="_blank" href="https://datatables.net/" rel="noreferrer">official DataTables documentation</a>
+                                This Datatable has been generated with ReactTable. For more informations please refer to {' '}
+                                <a target="_blank" href="https://react-table.tanstack.com" rel="noreferrer">{' '}official React-Tables documentation</a>
                                 .
                             </div>
                         </div>
